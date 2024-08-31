@@ -1,0 +1,155 @@
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    padding: 0;
+    height: 100%;
+}
+  /* PRODUCT SECTIO  BEGINS  */
+.product-section {
+    text-align: center;
+    padding: 23px 0;
+}
+
+.product-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.product-item {
+    display: flex;
+    align-items: center;
+    background-color: #d1cfcfa6;
+    padding: 20px;
+    border-radius: 10px;
+    width: 478px;
+}
+
+.product-info {
+    text-align: left;
+    margin-right: 20px;
+    flex: 1;
+}
+
+.product-image {
+    flex: 1;
+}
+
+.product-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product-item h3 {
+    font-size: 1.5em;
+    margin: 15px 0;
+}
+
+.product-item p {
+    font-size: 1em;
+    color: rgb(45, 42, 42);
+}
+
+.product-item a {
+    font-size: 1.2em;
+    color: #00000078;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.product-item a:hover {
+    text-decoration:underline;
+}
+
+/* --------------------------------------------------- */
+
+.product-section2 {
+    text-align: center;
+    padding: 23px 0;
+}
+
+.product-section2 h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;    
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.product-item {
+    display: flex;
+    align-items: center;
+    background-color: #d1cfcfa6;
+    padding: 20px;
+    border-radius: 10px;
+    width: 478px;
+}
+
+.product-item2 {
+    display: flex;
+    align-items: center;
+    background-image:url('assets/Our_Product/kitchen.jpg'); ;
+    padding: 20px;
+    border-radius: 10px;
+    width: 478px;
+}
+
+.product-info {
+    text-align: left;
+    margin-right: 20px;
+    flex: 1;
+}
+
+.product-image {
+    flex: 1;
+}
+
+.product-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.product-item h3 {
+    font-size: 1.5em;
+    margin: 15px 0;
+}
+
+.product-item p {
+    font-size: 1em;
+    color: rgb(45, 42, 42);
+}
+
+.product-item a {
+    font-size: 1.2em;
+    color: #00000078;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.product-item a:hover {
+    text-decoration:underline;
+}
